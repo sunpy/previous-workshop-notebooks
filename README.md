@@ -22,3 +22,24 @@ whose materials are available online.
 | Institution | course |
 |-------------|--------|
 | ? | [STFC Introductory Summer School for Research Computing in Solar Physics and Astronomy](https://openastronomy.org/rcsc18/chapters/00-lessons) |
+
+# Recommendations
+
+The following section provides some recommendations for tutorials. For all of
+the times listed below it should always be recognized that many users will
+arrive without having Python or SunPy installed and will need help. It is
+always recommended to have people in addition to the speaker available to work
+with people individually.
+
+| time available | topics | notes |
+|----------------|--------|-------|
+| 1 hour         | intro to SunPy notebook | advanced users may be able to follow along with the notebook many will just watch. This should be seen as a pitch for what kinds of things SunPy can do |
+| 1 hour         | Intro to Scientific Python | same as above |
+| 2 hours        | intro to SunPy notebook (1 hour) and exercises (1 hour) OR Intro to Scientific Python (1 hour) and Intro do SunPy (1 hour) |
+
+# Generic Resources
+This provides generic resources to materials that are available on the web.
+Given the active nature of the ecosystem some of these resources may be out of
+date.
+
+* [Git Handbook](https://guides.github.com/introduction/git-handbook/)
