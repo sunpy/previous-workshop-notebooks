@@ -35,7 +35,16 @@ with people individually.
 |----------------|--------|-------|
 | 1 hour         | intro to SunPy notebook | advanced users may be able to follow along with the notebook many will just watch. This should be seen as a pitch for what kinds of things SunPy can do |
 | 1 hour         | Intro to Scientific Python | same as above |
-| 2 hours        | intro to SunPy notebook (1 hour) and exercises (1 hour) OR Intro to Scientific Python (1 hour) and Intro do SunPy (1 hour) |
+| 2 hours        | intro to SunPy notebook (1 hour) and exercises (1 hour) OR Intro to Scientific Python (1 hour) and Intro to SunPy (1 hour) |
+
+# Example Tutorials
+
+The following is a list of tutorials from other projects which may be useful
+for comparison
+
+| Year | Workshop | Notes | time |
+|------|----------|-------|------|
+| 2018 | [Snakes on a Satellite](https://github.com/modern-tools-workshop/python-lectures) | Using Python and modern tools for research and analysis of next generation satellite data products, presented at Fall AGU 2018 meeting | 4 hours |
 
 # Generic Resources
 This provides generic resources to materials that are available on the web.
