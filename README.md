@@ -1,9 +1,11 @@
 # SunPy and Python Tutorials
 
 The purpose of this repository is to catalog all tutorials and materials
-available about SunPy and Python. Some of the materials are contained directly in this
-repository while some materials live in their own repository but are linked
-from here.
+available about SunPy and Python. Some of the materials are contained directly
+in this repository while some materials live in their own repository but are
+linked from here. **This is not meant to be used by users to learn how to use
+SunPy as many examples are out of date.** This is meant to be an archive to
+help develop future tutorials.
 
 # Workshop Index
 
