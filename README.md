@@ -16,9 +16,7 @@ This is meant to be an archive to help develop future tutorials.
 | 2017 | [48th Solar Physics Division meeting](2017_SPD_Portland/) | Portland, OR | 2 hours | matplotlib, numpy, sunpy |
 | 2018 | [SDO Science Workshop](2018_SDOWorkshop_Gent/) | Gent, Belgium | 1.5 hours | SunPy |
 
-Feel free to add to this list using the following naming convention:
-Folder names: `YYYY_MeetingName_MeetingLocation`
-Jupyter notebook names:`YYYY Meeting Name - Notebook topic.ipynb`
+Feel free to add to this list using the the naming convention `YYYY_MeetingName_MeetingLocation` for folder names and `YYYY Meeting Name - Notebook topic.ipynb` for Jupyter notebooks.
 
 # Course Index
 The following provides links to courses that include Python and SunPy content
