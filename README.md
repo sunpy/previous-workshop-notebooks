@@ -10,11 +10,15 @@ This is meant to be an archive to help develop future tutorials.
 
 | Year | Workshop | location | time | topics covered |
 |------|----------|----------|------|----------------|
-| 2014 | [13th RHESSI Workshop](2014_rhessi_workshop/) | Windish, Switzerland | 4 hours | matplotlib, numpy, SunPy |
-| 2015 | [46th Solar Physics Division meeting](2015_spd_tess/) | Indianapolis, IN | 3 hours| installation, SunPy |
-| 2016 | [47th Solar Physics Division meeting](2016_spd/) | Boulder, CO | 3 hours | numpy, pyqt, matplotlib, astropy |
-| 2017 | [48th Solar Physics Division meeting](2017_spd/) | Portland, OR | 2 hours | matplotlib, numpy, sunpy |
-| 2018 | [SDO Science Workshop](2018_sdo_workshop/) | Ghent, Belgium | 1.5 hours | SunPy |
+| 2014 | [13th RHESSI Workshop](2014_RHESSIWorkshop_Newark/) | Windish, Switzerland | 4 hours | matplotlib, numpy, SunPy |
+| 2015 | [46th Solar Physics Division meeting](2015_SPDTESS_Indianapolis/) | Indianapolis, IN | 3 hours| installation, SunPy |
+| 2016 | [47th Solar Physics Division meeting](2016_SPD_Boulder/) | Boulder, CO | 3 hours | numpy, pyqt, matplotlib, astropy |
+| 2017 | [48th Solar Physics Division meeting](2017_SPD_Portland/) | Portland, OR | 2 hours | matplotlib, numpy, sunpy |
+| 2018 | [SDO Science Workshop](2018_SDOWorkshop_Gent/) | Gent, Belgium | 1.5 hours | SunPy |
+
+Feel free to add to this list using the following naming convention:
+Folder names: `YYYY_MeetingName_MeetingLocation`
+Jupyter notebook names:`YYYY Meeting Name - Notebook topic.ipynb`
 
 # Course Index
 The following provides links to courses that include Python and SunPy content
