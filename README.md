@@ -15,6 +15,8 @@ This is meant to be an archive to help develop future tutorials.
 | 2016 | [47th Solar Physics Division meeting](2016_SPD_Boulder/) | Boulder, CO | 3 hours | numpy, pyqt, matplotlib, astropy |
 | 2017 | [48th Solar Physics Division meeting](2017_SPD_Portland/) | Portland, OR | 2 hours | matplotlib, numpy, sunpy |
 | 2018 | [SDO Science Workshop](2018_SDOWorkshop_Gent/) | Gent, Belgium | 1.5 hours | SunPy |
+| 2019 | [2nd Python in Heliophysics Workshop](2019_pyhc/) | Boulder, CO | 0.25 hours | SunPy 1.0 |
+| 2019 | [50th Solar Physics Division meeting](2019_spd/) | St. Louis, MO | 1 hour | SunPy 1.0 |
 
 Feel free to add to this list using the the naming convention `YYYY_MeetingName_MeetingLocation` for folder names and `YYYY Meeting Name - Notebook topic.ipynb` for Jupyter notebooks.
 
