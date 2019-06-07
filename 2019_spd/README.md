@@ -1,5 +1,6 @@
 # Solar Physics Division Meeting 2019
 
+* [AAS/SPD 2019 website](https://aas.org/meetings/aas234)
 * Covering key new functionality for the recently released SunPy 1.0
 * 12-Jun-2019 from 6-7 pm Grand Ballroom A
 * There is a tinyurl to this website [https://tinyurl.com/yxpmp9ow](https://tinyurl.com/yxpmp9ow).
