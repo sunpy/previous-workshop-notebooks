@@ -1,5 +1,0 @@
-sunpy[all]
-reproject
-astroquery
-jplephem
-

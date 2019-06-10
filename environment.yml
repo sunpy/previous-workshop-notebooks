@@ -1,0 +1,8 @@
+name: sunpy
+channels:
+  - conda-forge
+dependencies:
+  - sunpy
+  - pip:
+    - jplephem
+    - astroquery
