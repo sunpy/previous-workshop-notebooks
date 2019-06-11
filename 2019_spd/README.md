@@ -1,3 +1,5 @@
+![SunPy Logo](https://github.com/sunpy/sunpy-logo/blob/master/generated/sunpy_logo.png?raw=true)
+
 # Solar Physics Division Meeting 2019
 
 * [AAS/SPD 2019 website](https://aas.org/meetings/aas234)
