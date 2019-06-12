@@ -26,3 +26,6 @@ There are three notebooks. In order of presentation,
 
 ## Please take the Survey!
 Survey on [Computational Tools in Solar Physics](https://sunpy.org/survey)
+
+## New! Monthly User Meeting
+First Wednesday of every month instead of the developer meeting.
