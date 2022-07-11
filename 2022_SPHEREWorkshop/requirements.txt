@@ -1,0 +1,3 @@
+sunpy[all]==4.0.3
+sunkit-instruments==0.3.0
+ipywidgets
